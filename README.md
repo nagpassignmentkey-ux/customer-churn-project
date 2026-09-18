@@ -10,7 +10,7 @@ This is a Machine Learning solution designed to help a telecommunications compan
 customer_churn_project/
 │
 ├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── TelcoCustomerChurn.csv
 ├── notebook/
 │   └── churn_analysis.ipynb
 ├── model/
